@@ -1,0 +1,22 @@
+{
+  "name": "github-webhook-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/node": "^20.12.7",
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  },
+  "volta": {
+    "node": "20.12.2",
+    "pnpm": "9.0.6"
+  }
+}
